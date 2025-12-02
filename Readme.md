@@ -31,12 +31,6 @@ If this repository is helpful, please consider citing the survey above.
 
 ---
 
-## ⚡ **Quick Links**
-下面我给你一个 **完整、可以直接复制到 GitHub 的 README.md 模板**，结构、风格、排版 **完全参考你给的截图**，但内容适配 **RecSys Membership Inference Attacks**。
-你只需要把 Paper Link / Code Link 替换掉即可。
-
----
-
 # 📘 **Membership Inference Attacks on Recommender Systems (RecSys) – Literature Repository**
 
 This repository maintains a comprehensive and continuously updated list of **membership inference attacks (MIAs)** and **defenses** in **Recommender Systems (RecSys)**.
@@ -51,9 +45,8 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 | [2025](#attack-papers-2025) | [2024](#attack-papers-2024) | [2023](#attack-papers-2023) | [2022](#attack-papers-2022) | [2021](#attack-papers-2021) | 
 ### Defense papers sorted by year
 
-| 2025 | 2024 | 2023 | 2022 | 2021 |
+| [2025](#defense-papers-2025) | [2024](#defense-papers-2024) | [2023](#defense-papers-2023)| [2022](#defense-papers-2022) | [2021](#defense-papers-2021) |
 
-| [2025](#defense-papers-2025) | [2024](#defense-papers-2024) | [2023](#defense-papers-2023) | [2022](#defense-papers-2022) | [2021](#defense-papers-2021) | 
 ---
 
 # 🔥 **Membership Inference Attack**
