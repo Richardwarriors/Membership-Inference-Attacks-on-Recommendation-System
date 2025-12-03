@@ -60,7 +60,7 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 | Year | Title                                                                      | Attack Target | Adversarial Knowledge | Target Model         | Venue | Paper Link | Code Link |
 | ---- | -------------------------------------------------------------------------- | ----------------- |--------------------- | -------------------- | ----- | ---------- | --------- |
 | 2025 | *RecPS: Privacy Risk Scoring for Recommender Systems* | User&Interaction-level | White-box             | ⭐ Matrix-Factorization based & Graph-based ⭐           | RecSys  | [https://dl.acm.org/doi/10.1145/3705328.3748052](#)  | [https://github.com/RhincodonE/RsLiRA](#) |
-| 2025 | **                      | Black-box             | ⭐ Graph-based ⭐ | SIGIR  | [Link](#)  | [Link](#) |
+| 2025 | **                      || Black-box             | ⭐ Graph-based ⭐ | SIGIR  | [Link](#)  | [Link](#) |
 
 ---
 
