@@ -61,6 +61,7 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 | ---- | -------------------------------------------------------------------------- | ----------------- |--------------------- | -------------------- | ----- | ---------- | --------- |
 | 2025 | *RecPS: Privacy Risk Scoring for Recommender Systems* | User&Interaction-level | White-box             | ⭐ Matrix-Factorization based & Graph-based ⭐           | RecSys  | [https://dl.acm.org/doi/10.1145/3705328.3748052](#)  | [https://github.com/RhincodonE/RsLiRA](#) |
 | 2025 | **                      || Black-box             | ⭐ Graph-based ⭐ | SIGIR  | [Link](#)  | [Link](#) |
+| 2025 | *RecPS: Privacy Risk Scoring for Recommender Systems* | Social-level | Black-box             | ⭐ Graph-based ⭐| SIGIR  | [Link](#)  | [Link](#) |
 
 ---
 
@@ -86,7 +87,26 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 | 2023 | **      | Black-box             | ⭐ SASRec ⭐   | WSDM  | [Link](#)  | [Link](#) |
 
 ---
+# 🟦 **Attack Papers 2022**
 
+<a name="attack-papers-2023"></a>
+
+| Year | Title                                                      | Adversarial Knowledge | Target Model | Venue | Paper Link | Code Link |
+| ---- | ---------------------------------------------------------- | --------------------- | ------------ | ----- | ---------- | --------- |
+| 2023 | ** | Black-box             | ⭐ MF ⭐       | CIKM  | [Link](#)  | [Link](#) |
+| 2023 | **      | Black-box             | ⭐ SASRec ⭐   | WSDM  | [Link](#)  | [Link](#) |
+
+---
+# 🟦 **Attack Papers 2021**
+
+<a name="attack-papers-2023"></a>
+
+| Year | Title                                                      | Adversarial Knowledge | Target Model | Venue | Paper Link | Code Link |
+| ---- | ---------------------------------------------------------- | --------------------- | ------------ | ----- | ---------- | --------- |
+| 2023 | ** | Black-box             | ⭐ MF ⭐       | CIKM  | [Link](#)  | [Link](#) |
+| 2023 | **      | Black-box             | ⭐ SASRec ⭐   | WSDM  | [Link](#)  | [Link](#) |
+
+---
 
 # 🛡️ **Defense Papers**
 
