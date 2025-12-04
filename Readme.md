@@ -132,7 +132,7 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 
 | Year | Title                                                                                                     | Defense Type                      | Target Model    | Venue    | Paper Link                                  | Code Link |
 | ---- | --------------------------------------------------------------------------------------------------------- | --------------------------------- | --------------- | -------- | ------------------------------------------- | --------- |
-| 2024 | *Recommendation Unlearning via Influence Function*                                                        | Approximate Unlearning            | ⭐ MF ⭐          | ACM TORS | [https://dl.acm.org/doi/10.1145/3701763](#) | [Link](#) |
+| 2024 | *Recommendation Unlearning via Influence Function*                                                        | Approximate Unlearning            |         | ACM TORS | [https://dl.acm.org/doi/10.1145/3701763](#) | [Link](#) |
 | 2024 | *Interaction-level Membership Inference Attack against Recommender Systems with Long-tailed Distribution* | Differency Privacy&Regularization | ⭐ Graph-based ⭐ | CIKM     | [Link](#)                                   | [Link](#) |
 
 * * *
