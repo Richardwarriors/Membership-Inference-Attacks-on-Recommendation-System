@@ -65,7 +65,7 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 | Year | Title                                                                                | Attack Target     | Adversarial Knowledge | Target Model                                 | Venue  | Paper Link                                          | Code Link                                 |
 | ---- | ------------------------------------------------------------------------------------ | ----------------- | --------------------- | -------------------------------------------- | ------ | --------------------------------------------------- | ----------------------------------------- |
 | 2025 | *RecPS: Privacy Risk Scoring for Recommender Systems*                                | Interaction-level | White-box             | ⭐ Matrix-Factorization based & Graph-based ⭐ | RecSys | [https://dl.acm.org/doi/10.1145/3705328.3748052](#) | [https://github.com/RhincodonE/RsLiRA](#) |
-| 2025 | *Social Relation-Level Privacy Risks and Preservation in Social Recommender Systems* | Social-level      | Black-box             | ⭐ Graph-based ⭐                              | SIGIR  | [https://dl.acm.org/doi/10.1145/3726302.3730086](#) | [Link](#)                                 |
+| 2025 | *Social Relation-Level Privacy Risks and Preservation in Social Recommender Systems* | Social-level      | Black-box             | ⭐ Graph-based ⭐                              | SIGIR  | [https://dl.acm.org/doi/10.1145/3726302.3730086](#) | [https://github.com/XuHao-bit/SMIA](#)    |
 
 ---
 
@@ -73,10 +73,10 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 
 <a name="attack-papers-2024"></a>
 
-| Year | Title                                                                                                     | Attack Target     | Adversarial Knowledge | Target Model                                      | Venue | Paper Link                            | Code Link |
-| ---- | --------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | ------------------------------------------------- | ----- | ------------------------------------- | --------- |
-| 2024 | *Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought*      | User-level        | Black-box             | ⭐ Matrix-Factorization based & Sequential-based ⭐ | IJCAI | [https://arxiv.org/abs/2405.07018](#) | [Link](#) |
-| 2024 | *Interaction-level Membership Inference Attack against Recommender Systems with Long-tailed Distribution* | Interaction-level | Black-box             | ⭐ Graph-based ⭐                                   | CIKM  | [Link](#)                             | [Link](#) |
+| Year | Title                                                                                                     | Attack Target     | Adversarial Knowledge | Target Model                                      | Venue | Paper Link                                          | Code Link                             |
+| ---- | --------------------------------------------------------------------------------------------------------- | ----------------- | --------------------- | ------------------------------------------------- | ----- | --------------------------------------------------- | ------------------------------------- |
+| 2024 | *Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought*      | User-level        | Black-box             | ⭐ Matrix-Factorization based & Sequential-based ⭐ | IJCAI | [https://arxiv.org/abs/2405.07018](#)               | [Link](#)                             |
+| 2024 | *Interaction-level Membership Inference Attack against Recommender Systems with Long-tailed Distribution* | Interaction-level | Black-box             | ⭐ Graph-based ⭐                                   | CIKM  | [https://dl.acm.org/doi/10.1145/3627673.3679804](#) | [https://github.com/dzhong2/MINER](#) |
 
 ---
 
@@ -84,10 +84,10 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 
 <a name="attack-papers-2023"></a>
 
-| Year | Title                                                                                 | Attack Target     | Adversarial Knowledge | Target Model         | Venue | Paper Link | Code Link |
-| ---- | ------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- | ----- | ---------- | --------- |
-| 2023 | *Interaction-level membership inference attack against federated recommender systems* | Interaction-level | White-box             | \                    | WWW   | [Link](#)  | [Link](#) |
-| 2023 | *Membership inference attacks against sequential recommender systems.*                | User-level        | Black-box             | ⭐ Sequential-based ⭐ | WWW   | [Link](#)  | [Link](#) |
+| Year | Title                                                                                 | Attack Target     | Adversarial Knowledge | Target Model         | Venue | Paper Link                                          | Code Link |
+| ---- | ------------------------------------------------------------------------------------- | ----------------- | --------------------- | -------------------- | ----- | --------------------------------------------------- | --------- |
+| 2023 | *Interaction-level membership inference attack against federated recommender systems* | Interaction-level | White-box             | \                    | WWW   | [https://arxiv.org/abs/2301.10964](#)               | [Link](#) |
+| 2023 | *Membership inference attacks against sequential recommender systems*                 | User-level        | Black-box             | ⭐ Sequential-based ⭐ | WWW   | [https://dl.acm.org/doi/10.1145/3543507.3583447](#) | [Link](#) |
 
 ---
 
@@ -95,9 +95,9 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 
 <a name="attack-papers-2023"></a>
 
-| Year | Title                                                                             | Attack Target | Adversarial Knowledge | Target Model         | Venue | Paper Link | Code Link |
-| ---- | --------------------------------------------------------------------------------- | ------------- | --------------------- | -------------------- | ----- | ---------- | --------- |
-| 2022 | *Debiasing learning for membership inference attacks against recommender systems* | User-level    | Black-box             | ⭐ Sequential-based ⭐ | KDD   | [Link](#)  | [Link](#) |
+| Year | Title                                                                             | Attack Target | Adversarial Knowledge | Target Model         | Venue | Paper Link                            | Code Link |
+| ---- | --------------------------------------------------------------------------------- | ----------------------------------------- | --------------------- | -------------------- | ----- | ------------------------------------- | --------- |
+| 2022 | *Debiasing learning for membership inference attacks against recommender systems* | User-level                                | Black-box             | ⭐ Sequential-based ⭐ | KDD   | [https://arxiv.org/abs/2206.12401](#) | [Link](#) |
 
 ---
 
@@ -105,9 +105,9 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 
 <a name="attack-papers-2023"></a>
 
-| Year | Title                                                      | Attack Target | Adversarial Knowledge | Target Model                   | Venue | Paper Link | Code Link |
-| ---- | ---------------------------------------------------------- | ------------- | --------------------- | ------------------------------ | ----- | ---------- | --------- |
-| 2021 | *Membership inference attacks against recommender systems* | User-level    | Black-box             | ⭐ Matrix-Factorization based ⭐ | CCS   | [Link](#)  | [Link](#) |
+| Year | Title                                                      | Attack Target | Adversarial Knowledge | Target Model                   | Venue | Paper Link                            | Code Link                                  |
+| ---- | ---------------------------------------------------------- | ------------- | --------------------- | ------------------------------ | ----- | ------------------------------------- | ------------------------------------------ |
+| 2021 | *Membership inference attacks against recommender systems* | User-level    | Black-box             | ⭐ Matrix-Factorization based ⭐ | CCS   | [https://arxiv.org/abs/2109.08045](#) | [https://github.com/minxingzhang/MIARS](#) |
 
 ---
 
@@ -119,10 +119,10 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 
 <a name="attack-papers-2025"></a>
 
-| Year | Title                                                                                | Defense Type                      | Target Model                                 | Venue  | Paper Link                                          | Code Link                                 |
-| ---- | ------------------------------------------------------------------------------------ | --------------------------------- | -------------------------------------------- | ------ | --------------------------------------------------- | ----------------------------------------- |
-| 2025 | *RecPS: Privacy Risk Scoring for Recommender Systems*                                | Privacy Risk Score                | ⭐ Matrix-Factorization based & Graph-based ⭐ | RecSys | [https://dl.acm.org/doi/10.1145/3705328.3748052](#) | [https://github.com/RhincodonE/RsLiRA](#) |
-| 2025 | *Social Relation-Level Privacy Risks and Preservation in Social Recommender Systems* | Differency Privacy&Regularization | ⭐ Graph-based ⭐                              | SIGIR  | [https://dl.acm.org/doi/10.1145/3726302.3730086](#) | [Link](#)                                 |
+| Year | Title                                                                                | Defense Type                      | Venue  | Paper Link                                          | Code Link                                 |
+| ---- | ------------------------------------------------------------------------------------ | --------------------------------- | ------ | --------------------------------------------------- | ----------------------------------------- |
+| 2025 | *RecPS: Privacy Risk Scoring for Recommender Systems*                                | Privacy Risk Score                | RecSys | [https://dl.acm.org/doi/10.1145/3705328.3748052](#) | [https://github.com/RhincodonE/RsLiRA](#) |
+| 2025 | *Social Relation-Level Privacy Risks and Preservation in Social Recommender Systems* | Differency Privacy&Regularization | SIGIR  | [https://dl.acm.org/doi/10.1145/3726302.3730086](#) | [https://github.com/XuHao-bit/SMIA](#)    |
 
 ---
 
@@ -130,10 +130,10 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 
 <a name="attack-papers-2024"></a>
 
-| Year | Title                                                                                                     | Defense Type                      | Target Model    | Venue    | Paper Link                                  | Code Link |
-| ---- | --------------------------------------------------------------------------------------------------------- | --------------------------------- | --------------- | -------- | ------------------------------------------- | --------- |
-| 2024 | *Recommendation Unlearning via Influence Function*                                                        | Approximate Unlearning            |         | ACM TORS | [https://dl.acm.org/doi/10.1145/3701763](#) | [Link](#) |
-| 2024 | *Interaction-level Membership Inference Attack against Recommender Systems with Long-tailed Distribution* | Differency Privacy&Regularization | ⭐ Graph-based ⭐ | CIKM     | [Link](#)                                   | [Link](#) |
+| Year | Title                                                                                                     | Defense Type                      | Venue    | Paper Link                                          | Code Link                              |
+| ---- | --------------------------------------------------------------------------------------------------------- | --------------------------------- | -------- | --------------------------------------------------- | -------------------------------------- |
+| 2024 | *Recommendation Unlearning via Influence Function*                                                        | Approximate Unlearning            | ACM TORS | [https://dl.acm.org/doi/10.1145/3701763](#)         | [https://github.com/baiyimeng/IFRU](#) |
+| 2024 | *Interaction-level Membership Inference Attack against Recommender Systems with Long-tailed Distribution* | Differency Privacy&Regularization | CIKM     | [https://dl.acm.org/doi/10.1145/3627673.3679804](#) | [https://github.com/dzhong2/MINER](#)  |
 
 * * *
 
@@ -141,13 +141,13 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 
 <a name="attack-papers-2023"></a>
 
-| Year | Title                                                                                    | Defense Type           | Target Model         | Venue        | Paper Link                                                                                                            | Code Link |
-| ---- | ---------------------------------------------------------------------------------------- | ---------------------- | -------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------- | --------- |
-| 2023 | *Forgetting User Preference in Recommendation Systems with Label-Flipping*               | Approximate Unlearning |                      | IEEE BigData | [https://ieeexplore.ieee.org/document/10386603](#)                                                                    | [Link](#) |
-| 2023 | *UltraRE: Enhancing RecEraser for Recommendation Unlearning via Error Decomposition.*    | Exact Unlearning       |                      | NeurIPS      | [https://proceedings.neurips.cc/paper_files/paper/2023/file/29a0ea49a103a233b17c0705cdeccb66-Paper-Conference.pdf](#) | [Link](#) |
-| 2023 | *Selective and collaborative influence function for efficient recommendation unlearning* | Approximate Unlearning |                      | ESWA         | https://arxiv.org/abs/2203.11491                                                                                      |           |
-| 2023 | *Closed-form Machine Unlearning for Matrix Factorization.*                               | Approximate Unlearning |                      | CIKM         | https://dl.acm.org/doi/10.1145/3583780.3614811                                                                        |           |
-| 2023 | *Membership inference attacks against sequential recommender systems.*                   | Differency Privacy     | ⭐ Sequential-based ⭐ | WWW          |                                                                                                                       |           |
+| Year | Title                                                                                    | Defense Type           | Venue        | Paper Link                                                                                                            | Code Link                                   |
+| ---- | ---------------------------------------------------------------------------------------- | ---------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 2023 | *Forgetting User Preference in Recommendation Systems with Label-Flipping*               | Approximate Unlearning | IEEE BigData | [https://ieeexplore.ieee.org/document/10386603](#)                                                                    | [Link](#)                                   |
+| 2023 | *UltraRE: Enhancing RecEraser for Recommendation Unlearning via Error Decomposition*     | Exact Unlearning       | NeurIPS      | [https://proceedings.neurips.cc/paper_files/paper/2023/file/29a0ea49a103a233b17c0705cdeccb66-Paper-Conference.pdf](#) | [https://github.com/ZhangYizhao/UltraRE](#) |
+| 2023 | *Selective and collaborative influence function for efficient recommendation unlearning* | Approximate Unlearning | ESWA         | https://arxiv.org/abs/2203.11491                                                                                      |                                             |
+| 2023 | *Closed-form Machine Unlearning for Matrix Factorization*                                | Approximate Unlearning | CIKM         | https://dl.acm.org/doi/10.1145/3583780.3614811                                                                        |                                             |
+| 2023 | *Interaction-level Membership Inference Attack Against Federated Recommender Systems*    | Differency Privacy     | WWW          | https://arxiv.org/abs/2301.10964                                                                                      |                                             |
 
 * * *
 
@@ -155,11 +155,11 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 
 <a name="attack-papers-2022"></a>
 
-| Year | Title                                                                                    | Defense Type           | Target Model | Venue        | Paper Link                            | Code Link |
-| ---- | ---------------------------------------------------------------------------------------- | ---------------------- | ------------ | ------------ | ------------------------------------- | --------- |
-| 2022 | *Recommendation unlearning*                                                              | Exact Unlearning       |              | WWW          | [Link](#)                             | [Link](#) |
-| 2022 | *Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation* | Exact Unlearning       |              | KBS | [https://arxiv.org/abs/2203.11491](#) | [Link](#) |
-| 2022 | *Forgetting Fast in Recommender Systems*                                                 | Approximate Unlearning |              | RecSys       | https://arxiv.org/abs/2208.06875      |           |
+| Year | Title                                                                                    | Defense Type           | Venue  | Paper Link                                          | Code Link                                                      |
+| ---- | ---------------------------------------------------------------------------------------- | ---------------------- | ------ | --------------------------------------------------- | -------------------------------------------------------------- |
+| 2022 | *Recommendation unlearning*                                                              | Exact Unlearning       | WWW    | [https://dl.acm.org/doi/10.1145/3485447.3511997](#) | [https://github.com/chenchongthu/Recommendation-Unlearning](#) |
+| 2022 | *Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation* | Exact Unlearning       | KBS    | [https://arxiv.org/abs/2203.11491](#)               | [Link](#)                                                      |
+| 2022 | *Forgetting Fast in Recommender Systems*                                                 | Approximate Unlearning | RecSys | https://arxiv.org/abs/2208.06875                    |                                                                |
 
 * * * 
 
@@ -167,9 +167,9 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 
 <a name="attack-papers-2021"></a>
 
-| Year | Title                                                      | Defense Type             | Target Model                   | Venue | Paper Link | Code Link |
-| ---- | ---------------------------------------------------------- | ------------------------ | ------------------------------ | ----- | ---------- | --------- |
-| 2021 | *Membership inference attacks against recommender systems* | Popularity Randomization | ⭐ Matrix-Factorization based ⭐ | CCS   | [Link](#)  | [Link](#) |
+| Year | Title                                                      | Defense Type             | Venue | Paper Link                            | Code Link                                  |
+| ---- | ---------------------------------------------------------- | ------------------------ | ----- | ------------------------------------- | ------------------------------------------ |
+| 2021 | *Membership inference attacks against recommender systems* | Popularity Randomization | CCS   | [https://arxiv.org/abs/2109.08045](#) | [https://github.com/minxingzhang/MIARS](#) |
 
 
 
@@ -228,5 +228,3 @@ If you use this repository in your research, please cite our survey:
 * [Freya Fang]
 
 ---
-
-
