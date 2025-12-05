@@ -158,7 +158,7 @@ It accompanies our survey on RecSys MIAs and is intended to support researchers,
 | Year | Title                                                                                    | Defense Type           | Target Model | Venue        | Paper Link                            | Code Link |
 | ---- | ---------------------------------------------------------------------------------------- | ---------------------- | ------------ | ------------ | ------------------------------------- | --------- |
 | 2022 | *Recommendation unlearning*                                                              | Exact Unlearning       |              | WWW          | [Link](#)                             | [Link](#) |
-| 2022 | *Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation* | Exact Unlearning       |              | ？reference43 | [https://arxiv.org/abs/2203.11491](#) | [Link](#) |
+| 2022 | *Making Recommender Systems Forget: Learning and Unlearning for Erasable Recommendation* | Exact Unlearning       |              | KBS | [https://arxiv.org/abs/2203.11491](#) | [Link](#) |
 | 2022 | *Forgetting Fast in Recommender Systems*                                                 | Approximate Unlearning |              | RecSys       | https://arxiv.org/abs/2208.06875      |           |
 
 * * * 
