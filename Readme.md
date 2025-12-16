@@ -11,7 +11,7 @@ We continuously update this repository and welcome contributions from the commun
 
 ## 🔗 **Paper Link (Survey)**
 
-> *[Membership Inference Attacks on Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2509.11080)*
+> *[Membership Inference Attacks on Recommender Systems: A Comprehensive Survey](https://richardwarriors.github.io/RecSys_MIA_overview.pdf)*
 > (*under review ACM computer survey.*)
 
 If this repository is helpful, please consider citing the survey above.
